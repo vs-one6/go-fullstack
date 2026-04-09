@@ -1,0 +1,11 @@
+basePath: /
+host: localhost:5000
+info:
+  contact: {}
+  description: Type "bearer" followed by a space  and token
+  title: Fiber Golang Rest Api
+  version: "1.0"
+paths: {}
+schemes:
+- http
+swagger: "2.0"
